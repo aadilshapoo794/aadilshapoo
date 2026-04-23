@@ -3,3 +3,4 @@ resource "azurerm_resource_group" "zoom" {
     location = "west us"
   
 }
+srinagar smart city
